@@ -1,0 +1,72 @@
+#pasto{
+	width: 800px;
+	height: 400px;
+	background: mediumseagreen;
+	position: relative;
+	left: 200px;
+	top: 100px;
+}
+#arco1{
+	width: 100px;
+	height: 200px;
+	border: 6px solid white;
+	position: absolute;
+	left: 230px;
+	bottom: 230px;
+}
+#arco2{
+	width: 100px;
+	height: 200px;
+	border: 6px solid white;
+	position: absolute;
+	left: 865px;
+	bottom: 230px;
+}
+#circulo{
+	width: 160px;
+	height: 160px;
+	border: 4px solid white;
+	border-radius: 100%;
+	position: absolute;
+	left: 520px;
+	bottom: 250px;
+}
+#linea{
+	width: 740px;
+	height: 340px;
+	border: 6px solid white;
+	position: relative;
+	left: 220px;
+	bottom: 280px;
+
+}
+#pelota1{
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	background-color: #F0EAEA;
+	border-radius: 100%;
+	position: absolute;
+	left: 330px;
+	bottom: 425px;
+}
+#pelota2{
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	background-color: #F0EAEA;
+	border-radius: 100%;
+	position: absolute;
+	left: 600px;
+	bottom: 460px;
+}
+#pelota3{
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	background-color: #F0EAEA;
+	border-radius: 100%;
+	position: absolute;
+	left: 840px;
+	bottom: 240px;
+}
